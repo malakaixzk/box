@@ -1,4 +1,9 @@
 ### TVBox 开源版
+wwww.json 是单独的一个tvbox 配置  是改良后的
+q.json 是本库 m.json 改良版  必须带这个库才能运行 库里有必要的配置文件 (包括jar文件)
+
+
+
 - TVBox [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。  
 - 通过导入特点资源接口,解析各类爬虫源、XP源、采集源等。完全无任何限制,也无任何广告。  
 - 原版支持本地功能，聚合模式，支持多种视频格式，增加分辨率、时间及缓冲速度显示，优化采集等等。
