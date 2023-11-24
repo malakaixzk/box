@@ -1,6 +1,8 @@
 ### TVBox 开源版
-wwww.json 是单独的一个tvbox 配置  是改良后的
-q.json 是本库 m.json 改良版  必须带这个库才能运行 库里有必要的配置文件 (包括jar文件)
+-wwww.json 是单独的一个tvbox 配置  是改良后的
+
+
+-q.json 是本库 m.json 改良版  必须带这个库才能运行 库里有必要的配置文件 (包括jar文件)
 
 
 
