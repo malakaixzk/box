@@ -1,8 +1,8 @@
 ### TVBox 开源版
--wwww.json 是单独的一个tvbox 配置  是改良后的
+-wwww.json 是单独的一个tvbox 配置  是改良后的 
 
 
--tv.json 是单独的一个tvbox 配置  是改良后的 tvbox版本20230601-1755 安卓4.42
+-tv.json 是单独的一个tvbox 配置  是wwww.json改良后的 tvbox版本20230601-1755 安卓4.42
 
 
 
