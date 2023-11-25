@@ -10,7 +10,9 @@
         "https://tuapi.eees.cc/api.php?category=fengjing&type=302"
     ],
     "sites": [
-        {
+
+		
+		{
             "key": "2d50e74976a7802fd673d75738bce50e",
             "name": "①1080",
             "type": 1,
@@ -288,7 +290,7 @@
             "api": "https://www.kuaiyunzy.com/api.php/provide/vod/at/xml"
         }
     ],
-    "lives": [
+     "lives": [
         {
             "group": "CHC",
             "channels": [
@@ -360,7 +362,8 @@
                     "name": "东方卫视",
                     "tvg_name": "东方卫视",
                     "urls": [
-                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8",
+                        "http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226734/1.m3u8",
+						"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8",
                         "http://39.134.65.149/PLTV/88888888/224/3221225942/1.m3u8",
                         "http://39.134.65.130/PLTV/88888888/224/3221225942/1.m3u8",
                         "http://39.134.65.141/PLTV/88888888/224/3221225942/1.m3u8",
@@ -382,7 +385,8 @@
                     "name": "北京卫视",
                     "tvg_name": "北京卫视",
                     "urls": [
-                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8",
+                        "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8",
+						"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8",
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8",
                         "http://39.134.65.173/PLTV/88888888/224/3221225678/1.m3u8",
                         "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8",
@@ -393,7 +397,8 @@
                     "name": "吉林卫视",
                     "tvg_name": "吉林卫视",
                     "urls": [
-                        "http://221.2.36.34:8888/newlive/live/hls/35/live.m3u8",
+                        "http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8",
+						"http://221.2.36.34:8888/newlive/live/hls/35/live.m3u8",
                         "http://221.213.43.82:8888/newlive/live/hls/35/live.m3u8",
                         "http://222.71.90.218:8888/newlive/live/hls/41/live.m3u8",
                         "https://epg.pw/stream/2ed11f7c0959c77212164cdc0f644265d8c7aa309ea031068b2972663283ef39.ctv"
@@ -413,31 +418,21 @@
                     "name": "天津卫视",
                     "tvg_name": "天津卫视",
                     "urls": [
-                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8",
+                        "https://video.lzjtu.edu.cn/liverespath/41433c450cf4747cf2600adecc560bc90f344182/index.m3u8",
+						"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8",
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226204/1.m3u8",
                         "http://39.134.65.166/PLTV/88888888/224/3221225665/1.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8",
                         "http://221.2.36.34:8888/newlive/live/hls/42/live.m3u8"
                     ]
                 },
-                {
-                    "name": "宁夏卫视",
-                    "tvg_name": "宁夏卫视",
-                    "urls": [
-                        "http://221.213.43.82:8888/newlive/live/hls/40/live.m3u8"
-                    ]
-                },
-                {
-                    "name": "安多卫视",
-                    "urls": [
-                        "http://stream.qhbtv.com/adws/sd/live.m3u8"
-                    ]
-                },
+                
                 {
                     "name": "安徽卫视",
                     "tvg_name": "安徽卫视",
                     "urls": [
-                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8",
+                        "http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226655/1.m3u8",
+						"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8",
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8",
                         "http://221.2.36.34:8888/newlive/live/hls/25/live.m3u8",
                         "https://epg.pw/stream/9b4d370081141f3935c369b69c3cee4ccfbc1b62ea9b29af52926243038138c3.m3u8",
@@ -448,7 +443,8 @@
                     "name": "山东卫视",
                     "tvg_name": "山东卫视",
                     "urls": [
-                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8",
+                        "https://video.lzjtu.edu.cn/liverespath/8b205af319dcc92c60a69a96423af21b24a29ca0/index.m3u8",
+						"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8",
                         "http://221.2.36.34:8888/newlive/live/hls/30/live.m3u8",
                         "http://39.134.65.141/PLTV/88888888/224/3221225952/1.m3u8",
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226209/1.m3u8",
@@ -459,7 +455,8 @@
                     "name": "山西卫视",
                     "tvg_name": "山西卫视",
                     "urls": [
-                        "https://epg.pw/stream/7b2fa8dc312d37e94a4c24c60dab0db996028620d4a8c9008127c9d07e4767e5.m3u8",
+                        "https://video.lzjtu.edu.cn/liverespath/74908123d020c1a9f55e8a9652973187bcd07970/index.m3u8",
+						"https://epg.pw/stream/7b2fa8dc312d37e94a4c24c60dab0db996028620d4a8c9008127c9d07e4767e5.m3u8",
                         "https://epg.pw/stream/f3585857f1474c6f9527ea29a7a99115a86855d9addb67619aa9a033299b48eb.m3u8"
                     ]
                 },
@@ -467,7 +464,8 @@
                     "name": "广东卫视",
                     "tvg_name": "广东卫视",
                     "urls": [
-                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8",
+                        "https://video.lzjtu.edu.cn/liverespath/57e80ee85ec1f4e523e1bca55f5a676abd292db8/index.m3u8",
+						"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8",
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8",
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225803/1.m3u8",
                         "http://221.2.36.34:8888/newlive/live/hls/21/live.m3u8",
@@ -478,7 +476,8 @@
                     "name": "广西卫视",
                     "tvg_name": "广西卫视",
                     "urls": [
-                        "http://221.2.36.34:8888/newlive/live/hls/26/live.m3u8",
+                        "http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8",
+						"http://221.2.36.34:8888/newlive/live/hls/26/live.m3u8",
                         "https://epg.pw/stream/3899ee96bfc51a8e53baa9d48c86b9b9a52907112fffcb33e94df2c05cc02d3c.m3u8",
                         "https://epg.pw/stream/ea0d1b1fd3dead4ce62ebea5bb153d4db39617a5e0e37af009e5207049b17cfd.m3u8",
                         "https://epg.pw/stream/4c5f36396d332e46e1100935b5d70096a96b436a2acd0f71a700488ba3f3e536.m3u8",
@@ -490,6 +489,7 @@
                     "tvg_name": "延边卫视",
                     "urls": [
                         "http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8",
+						"http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8",
                         "http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8",
                         "http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8"
                     ]
@@ -505,7 +505,8 @@
                     "name": "江苏卫视",
                     "tvg_name": "江苏卫视",
                     "urls": [
-                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8",
+                        "http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226692/1.m3u8",
+						"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8",
                         "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8",
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225800/index.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8",
@@ -516,7 +517,8 @@
                     "name": "江西卫视",
                     "tvg_name": "江西卫视",
                     "urls": [
-                        "http://221.2.36.34:8888/newlive/live/hls/48/live.m3u8",
+                        "https://video.lzjtu.edu.cn/liverespath/5262d7f97311b82a4a460f3b8221e4a7d394c2c0/index.m3u8",
+						"http://221.2.36.34:8888/newlive/live/hls/48/live.m3u8",
                         "https://epg.pw/stream/1d56b395bdb00424c44f8dbff39c9b2606472caa25b9328fb7231f8a97643de7.m3u8",
                         "http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226726/1.m3u8",
                         "https://epg.pw/stream/bc4d49bde015fc24aafb924423536d9ec2f09ad3d55313e4a482ba85ae48b175.ctv",
@@ -527,7 +529,9 @@
                     "name": "河北卫视",
                     "tvg_name": "河北卫视",
                     "urls": [
-                        "http://221.2.36.34:8888/newlive/live/hls/46/live.m3u8",
+                        "http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226684/1.m3u8",
+						"http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3944fff7fdd8f8caf6adce2c9a0ef126",
+						"http://221.2.36.34:8888/newlive/live/hls/46/live.m3u8",
                         "https://epg.pw/stream/f6f088a09671f289ff8c8d57aa922cca76f29d3bfd4851b8309716e41293e3ba.m3u8",
                         "https://epg.pw/stream/50a5410e1d04d5d14187b7b663c633977b51e860cf4e7046b19159d791a1a0a1.m3u8",
                         "http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226684/1.m3u8",
@@ -538,7 +542,8 @@
                     "name": "河南卫视",
                     "tvg_name": "河南卫视",
                     "urls": [
-                        "http://39.134.66.110/PLTV/88888888/224/3221225988/index.m3u8",
+                        "http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226668/1.m3u8",
+						"http://39.134.66.110/PLTV/88888888/224/3221225988/index.m3u8",
                         "https://epg.pw/stream/23db28c32ab3480201f1786bd63814a74e07902931ef4aa44300461df3ec1495.m3u8",
                         "https://epg.pw/stream/63baadeb2bbe8a38ac216df1679e8912a9cbe3ddb342c25122bac2f13576754a.m3u8",
                         "http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226668/1.m3u8",
@@ -549,7 +554,8 @@
                     "name": "浙江卫视",
                     "tvg_name": "浙江卫视",
                     "urls": [
-                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8",
+                        "http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
+						"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8",
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8",
                         "http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8",
@@ -560,7 +566,8 @@
                     "name": "海南卫视",
                     "tvg_name": "旅游卫视",
                     "urls": [
-                        "http://221.2.36.34:8888/newlive/live/hls/47/live.m3u8",
+                        "http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226679/1.m3u8",
+						"http://221.2.36.34:8888/newlive/live/hls/47/live.m3u8",
                         "http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226679/1.m3u8",
                         "https://epg.pw/stream/3422e2a37f3888dd6b97def0e3937a4e7f1f20573173b991c295d86a1bf97cd8.m3u8",
                         "https://epg.pw/stream/b49eb8c449c75b34dae48f7cba8d8e63de58ca8e034c3095819a17688dd68e10.m3u8"
@@ -570,7 +577,8 @@
                     "name": "深圳卫视",
                     "tvg_name": "深圳卫视",
                     "urls": [
-                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225801/index.m3u8",
+                        "http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226688/1.m3u8",
+						"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225801/index.m3u8",
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8",
                         "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8",
                         "http://221.2.36.34:8888/newlive/live/hls/28/live.m3u8",
@@ -581,7 +589,8 @@
                     "name": "湖北卫视",
                     "tvg_name": "湖北卫视",
                     "urls": [
-                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8",
+                        "https://video.lzjtu.edu.cn/liverespath/a8e4cf2bade25844b998d7743d83331412ea841f/index.m3u8",
+						"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8",
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226206/index.m3u8",
                         "http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8",
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226206/1.m3u8",
@@ -592,7 +601,8 @@
                     "name": "湖南卫视",
                     "tvg_name": "湖南卫视",
                     "urls": [
-                        "http://39.134.65.181/PLTV/88888888/224/3221225506/1.m3u8",
+                        "https://video.lzjtu.edu.cn/liverespath/9b1ccba5a2c611bb5d7c96243695572090cca5fd/index.m3u8",
+						"http://39.134.65.181/PLTV/88888888/224/3221225506/1.m3u8",
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8",
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8",
@@ -623,7 +633,8 @@
                     "name": "辽宁卫视",
                     "tvg_name": "辽宁卫视",
                     "urls": [
-                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8",
+                        "http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226689/1.m3u8",
+						"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8",
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226210/index.m3u8",
                         "http://221.2.36.34:8888/newlive/live/hls/43/live.m3u8",
                         "https://epg.pw/stream/21ba42e25e1f832430d912489ac2a4370c967f7c9a824da311f3f77bc40e1b1c.m3u8",
@@ -641,18 +652,13 @@
                         "http://221.213.43.82:8888/newlive/live/hls/31/live.m3u8"
                     ]
                 },
-                {
-                    "name": "陕西卫视",
-                    "tvg_name": "陕西卫视",
-                    "urls": [
-                        "http://221.213.43.82:8888/newlive/live/hls/41/live.m3u8"
-                    ]
-                },
+              
                 {
                     "name": "青海卫视",
                     "tvg_name": "青海卫视",
                     "urls": [
-                        "http://221.2.36.34:8888/newlive/live/hls/39/live.m3u8",
+                        "http://stream.qhbtv.com/qhws/sd/live.m3u8",
+						"http://221.2.36.34:8888/newlive/live/hls/39/live.m3u8",
                         "https://epg.pw/stream/1fb919b559c35be3fc7bdae6013764419a118551db0248b110ed83df99a5744e.m3u8",
                         "http://stream.qhbtv.com/qhws/sd/live.m3u8",
                         "http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030",
@@ -663,7 +669,8 @@
                     "name": "黑龙江卫视",
                     "tvg_name": "黑龙江卫视",
                     "urls": [
-                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8",
+                        "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8",
+						"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8",
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8",
                         "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8",
                         "http://221.2.36.34:8888/newlive/live/hls/45/live.m3u8",
@@ -679,7 +686,8 @@
                     "name": "CCTV-10科教",
                     "tvg_name": "CCTV10",
                     "urls": [
-                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8",
+                        "http://120.196.232.28:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226708/1.m3u8",
+						"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8",
                         "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8",
                         "http://39.134.66.48/PLTV/88888888/224/3221225677/index.m3u8",
                         "http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8",
@@ -690,7 +698,8 @@
                     "name": "CCTV-11戏曲",
                     "tvg_name": "CCTV11",
                     "urls": [
-                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8",
+                        "http://120.196.232.55:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8",
+						"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8",
                         "http://219.140.56.34:3333/tsfile/live/1011_1.m3u8",
                         "https://epg.pw/stream/d627f508e2f58f2bcb1d583bc89aa15823d9b4721cc9de00242d9ad284035057.m3u8",
                         "https://epg.pw/stream/748505633a520c17012bc2a44c6986e85f7314f56f5e6c0bec23efa70fdcceb7.m3u8",
@@ -701,7 +710,8 @@
                     "name": "CCTV-12社会与法",
                     "tvg_name": "CCTV12",
                     "urls": [
-                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8",
+                        "http://120.196.232.52:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226723/1.m3u8",
+						"http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8",
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/1.m3u8",
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8",
                         "http://39.134.65.173/PLTV/88888888/224/3221225669/1.m3u8",
@@ -712,7 +722,8 @@
                     "name": "CCTV-13新闻",
                     "tvg_name": "CCTV13",
                     "urls": [
-                        "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8",
+                        "http://120.196.232.22:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m3u8",
+						"http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8",
                         "http://183.196.25.171:808/hls/13/index.m3u8",
                         "http://223.95.111.98:5555/newlive/live/hls/13/live.m3u8",
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8",
@@ -723,7 +734,8 @@
                     "name": "CCTV-14少儿",
                     "tvg_name": "CCTV14",
                     "urls": [
-                        "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8",
+                        "http://120.196.232.28:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226645/1.m3u8",
+						"http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8",
                         "http://39.134.65.179/PLTV/88888888/224/3221225674/index.m3u8",
                         "http://39.134.65.164/PLTV/88888888/224/3221225674/index.m3u8",
                         "http://39.134.65.181/PLTV/88888888/224/3221225674/index.m3u8",
@@ -734,7 +746,8 @@
                     "name": "CCTV-15音乐",
                     "tvg_name": "CCTV15",
                     "urls": [
-                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8",
+                        "http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel40/index.m3u8",
+						"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8",
                         "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8",
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8",
                         "https://epg.pw/stream/8d1e2698954349f890fafaecfa5b1864944c947a8840437e1ffaeb822fc168c8.m3u8",
@@ -745,7 +758,8 @@
                     "name": "CCTV-16奥林匹克",
                     "tvg_name": "CCTV16",
                     "urls": [
-                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8",
+                        "http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8",
+						"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8",
                         "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8",
                         "https://epg.pw/stream/88432130a32875dc03aab0604ff31c6291c75f22b58243882c6a2b0059b9289f.m3u8",
@@ -756,7 +770,8 @@
                     "name": "CCTV-17农业农村",
                     "tvg_name": "CCTV17",
                     "urls": [
-                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",
+                        "http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3u8",
+						"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8",
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8",
                         "http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8",
@@ -767,7 +782,8 @@
                     "name": "CCTV-1综合",
                     "tvg_name": "CCTV1",
                     "urls": [
-                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8",
+                        "http://120.196.232.20:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8",
+						"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8",
                         "http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8",
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8",
@@ -778,7 +794,8 @@
                     "name": "CCTV-2财经",
                     "tvg_name": "CCTV2",
                     "urls": [
-                        "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/index.m3u8",
+                        "http://120.196.232.53:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8",
+						"http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/index.m3u8",
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/index.m3u8",
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8",
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8",
@@ -789,7 +806,8 @@
                     "name": "CCTV-3综艺",
                     "tvg_name": "CCTV3",
                     "urls": [
-                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8",
+                        "http://120.196.232.49:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8",
+						"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8",
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8",
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8",
                         "http://219.140.56.34:3333/tsfile/live/0003_1.m3u8",
@@ -800,7 +818,8 @@
                     "name": "CCTV-4中文国际",
                     "tvg_name": "CCTV4",
                     "urls": [
-                        "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8",
+                        "http://120.196.232.28:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8",
+						"http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8",
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8",
                         "http://183.196.25.171:808/hls/4/index.m3u8",
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8",
@@ -825,7 +844,8 @@
                     "name": "CCTV-5+体育赛事",
                     "tvg_name": "CCTV5+",
                     "urls": [
-                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8",
+                        "http://120.196.232.52:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8",
+						"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8",
                         "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8",
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8",
@@ -836,7 +856,8 @@
                     "name": "CCTV-5体育",
                     "tvg_name": "CCTV5",
                     "urls": [
-                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8",
+                        "http://120.196.232.31:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8",
+						"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8",
                         "http://39.134.66.2/PLTV/88888888/224/3221225818/index.m3u8",
                         "http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8",
                         "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8",
@@ -847,6 +868,7 @@
                     "name": "CCTV-6电影",
                     "tvg_name": "CCTV6",
                     "urls": [
+						"http://120.196.232.25:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8",
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8",
                         "http://39.134.66.2/PLTV/88888888/224/3221225814/index.m3u8",
@@ -858,7 +880,8 @@
                     "name": "CCTV-7国防军事",
                     "tvg_name": "CCTV7",
                     "urls": [
-                        "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8",
+                        "http://120.196.232.32:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226721/1.m3u8",
+						"http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8",
                         "http://39.134.66.66/PLTV/88888888/224/3221225671/index.m3u8",
                         "http://39.134.66.110/PLTV/88888888/224/3221225671/index.m3u8",
                         "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8",
@@ -869,7 +892,8 @@
                     "name": "CCTV-8电视剧",
                     "tvg_name": "CCTV8",
                     "urls": [
-                        "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",
+                        "http://120.196.232.18:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3u8",
+						"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8",
                         "http://39.134.66.2/PLTV/88888888/224/3221225795/index.m3u8",
                         "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/index.m3u8",
@@ -880,7 +904,8 @@
                     "name": "CCTV-9纪录",
                     "tvg_name": "CCTV9",
                     "urls": [
-                        "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8",
+                        "http://120.196.232.36:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226651/1.m3u8",
+						"http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8",
                         "http://39.134.65.166/PLTV/88888888/224/3221225676/index.m3u8",
                         "http://39.134.65.183/PLTV/88888888/224/3221225676/index.m3u8",
                         "http://39.134.65.173/PLTV/88888888/224/3221225676/index.m3u8",
@@ -1272,361 +1297,7 @@
                 }
             ]
         },
-        {
-            "group": "斗鱼",
-            "channels": [
-                {
-                    "name": "随便玩玩! 9999",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/9999",
-                        "http://epg.112114.xyz/douyu/9999"
-                    ]
-                },
-                {
-                    "name": "直播TI12  Talon vs BB",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/30",
-                        "http://epg.112114.xyz/douyu/30"
-                    ]
-                },
-                {
-                    "name": "【重播】DAY2 TI12小组赛频道2",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/3811559",
-                        "http://epg.112114.xyz/douyu/3811559"
-                    ]
-                },
-                {
-                    "name": "【重播】DAY2 TI12小组赛频道3",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/3987011",
-                        "http://epg.112114.xyz/douyu/3987011"
-                    ]
-                },
-                {
-                    "name": "【重播】DAY2 TI12小组赛频道5",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/1610241",
-                        "http://epg.112114.xyz/douyu/1610241"
-                    ]
-                },
-                {
-                    "name": "【呆妹】一起see",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/2947432",
-                        "http://epg.112114.xyz/douyu/2947432"
-                    ]
-                },
-                {
-                    "name": "诸位爷！里面请！",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/5377721",
-                        "http://epg.112114.xyz/douyu/5377721"
-                    ]
-                },
-                {
-                    "name": "【重播】23日15点瑞士轮",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/288016",
-                        "http://epg.112114.xyz/douyu/288016"
-                    ]
-                },
-                {
-                    "name": "【不进来后悔】顶级猛男！无敌单4！",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/5720533",
-                        "http://epg.112114.xyz/douyu/5720533"
-                    ]
-                },
-                {
-                    "name": "围观第5冲第一速来！",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/5526219",
-                        "http://epg.112114.xyz/douyu/5526219"
-                    ]
-                },
-                {
-                    "name": "武斗赛比赛解说，今日线索紫衣药瓶6866",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/535534",
-                        "http://epg.112114.xyz/douyu/535534"
-                    ]
-                },
-                {
-                    "name": "ti解说，中国队加油！！！",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/88660",
-                        "http://epg.112114.xyz/douyu/88660"
-                    ]
-                },
-                {
-                    "name": "瞧瞧人家的小麻将！！",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/1165924",
-                        "http://epg.112114.xyz/douyu/1165924"
-                    ]
-                },
-                {
-                    "name": "蜘蛛馍：野区3分钟一血新版本思路教学",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/226037",
-                        "http://epg.112114.xyz/douyu/226037"
-                    ]
-                },
-                {
-                    "name": "巅峰2256势必拿下第一",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/11469263",
-                        "http://epg.112114.xyz/douyu/11469263"
-                    ]
-                },
-                {
-                    "name": "预告|18点TOC6全国小组突围赛",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/522423",
-                        "http://epg.112114.xyz/douyu/522423"
-                    ]
-                },
-                {
-                    "name": "全程解说 Ti12!",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/110",
-                        "http://epg.112114.xyz/douyu/110"
-                    ]
-                },
-                {
-                    "name": "单排射手上百星，教你版本答案",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/74706",
-                        "http://epg.112114.xyz/douyu/74706"
-                    ]
-                },
-                {
-                    "name": "[小花]战神M16",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/101367",
-                        "http://epg.112114.xyz/douyu/101367"
-                    ]
-                },
-                {
-                    "name": "【PCL夏季赛】重播",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/100",
-                        "http://epg.112114.xyz/douyu/100"
-                    ]
-                },
-                {
-                    "name": "吃吃吃：嘿嘿嘿哈哈哈嘻嘻嘻",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/7592343",
-                        "http://epg.112114.xyz/douyu/7592343"
-                    ]
-                },
-                {
-                    "name": "来这开心就好了",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/74960",
-                        "http://epg.112114.xyz/douyu/74960"
-                    ]
-                },
-                {
-                    "name": "【命运方舟】体验下国服公会战",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/286138",
-                        "http://epg.112114.xyz/douyu/286138"
-                    ]
-                },
-                {
-                    "name": "CPT新加坡白金赛16强",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/2125",
-                        "http://epg.112114.xyz/douyu/2125"
-                    ]
-                },
-                {
-                    "name": "10月26日，秋季赛决赛西安见",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/488743",
-                        "http://epg.112114.xyz/douyu/488743"
-                    ]
-                },
-                {
-                    "name": "双国服2带3高胜率有车位",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/5395900",
-                        "http://epg.112114.xyz/douyu/5395900"
-                    ]
-                },
-                {
-                    "name": "4倍❤️全能女野天花板带飞！！！",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/4403187",
-                        "http://epg.112114.xyz/douyu/4403187"
-                    ]
-                },
-                {
-                    "name": "【少华】双倍 谁是陈牧",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/1914456",
-                        "http://epg.112114.xyz/douyu/1914456"
-                    ]
-                },
-                {
-                    "name": "小恩子来了，明天加把劲",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/4921614",
-                        "http://epg.112114.xyz/douyu/4921614"
-                    ]
-                },
-                {
-                    "name": "三万血斗士斯维因！",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/10214664",
-                        "http://epg.112114.xyz/douyu/10214664"
-                    ]
-                },
-                {
-                    "name": "【鸽子她】双倍亲密度！又菜又爱丸~",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/236288",
-                        "http://epg.112114.xyz/douyu/236288"
-                    ]
-                },
-                {
-                    "name": "无上限砍人头复制对位",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/787747",
-                        "http://epg.112114.xyz/douyu/787747"
-                    ]
-                },
-                {
-                    "name": "【✘-✘】黑白双煞",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/709710",
-                        "http://epg.112114.xyz/douyu/709710"
-                    ]
-                },
-                {
-                    "name": "双国1刘备鬼谷子2带3",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/10725261",
-                        "http://epg.112114.xyz/douyu/10725261"
-                    ]
-                },
-                {
-                    "name": "小豪：武斗赛D组比赛！",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/885443",
-                        "http://epg.112114.xyz/douyu/885443"
-                    ]
-                },
-                {
-                    "name": "热爱上班 ~~~~~",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/666743",
-                        "http://epg.112114.xyz/douyu/666743"
-                    ]
-                },
-                {
-                    "name": "苏州 声音好听的妹妹",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/9938158",
-                        "http://epg.112114.xyz/douyu/9938158"
-                    ]
-                },
-                {
-                    "name": "斗鱼大事件",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/8799916",
-                        "http://epg.112114.xyz/douyu/8799916"
-                    ]
-                },
-                {
-                    "name": "输出流亚连，冲击百星",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/5373486",
-                        "http://epg.112114.xyz/douyu/5373486"
-                    ]
-                },
-                {
-                    "name": "第一炼金：斗鱼前三上单！",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/338281",
-                        "http://epg.112114.xyz/douyu/338281"
-                    ]
-                },
-                {
-                    "name": "石原：超影猛冲！",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/921393",
-                        "http://epg.112114.xyz/douyu/921393"
-                    ]
-                },
-                {
-                    "name": "国服最强赵云顶级教学！",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/2205764",
-                        "http://epg.112114.xyz/douyu/2205764"
-                    ]
-                },
-                {
-                    "name": "5国服李白单排上荣耀",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/2433239",
-                        "http://epg.112114.xyz/douyu/2433239"
-                    ]
-                },
-                {
-                    "name": "只会赌王者开sha！！！！",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/168000",
-                        "http://epg.112114.xyz/douyu/168000"
-                    ]
-                },
-                {
-                    "name": "【弹幕送5K】前职业单四全程钢枪高能",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/3652542",
-                        "http://epg.112114.xyz/douyu/3652542"
-                    ]
-                },
-                {
-                    "name": "CS 开船 帝国",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/52319",
-                        "http://epg.112114.xyz/douyu/52319"
-                    ]
-                },
-                {
-                    "name": "猛女1V4击杀挑战",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/6503272",
-                        "http://epg.112114.xyz/douyu/6503272"
-                    ]
-                },
-                {
-                    "name": "【呆猪】新人主播",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/4520630",
-                        "http://epg.112114.xyz/douyu/4520630"
-                    ]
-                },
-                {
-                    "name": "相信光 相信光 相信光",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/6629668",
-                        "http://epg.112114.xyz/douyu/6629668"
-                    ]
-                },
-                {
-                    "name": "【和平精英区域对抗赛】重播",
-                    "urls": [
-                        "https://www.goodiptv.club/douyu/999",
-                        "http://epg.112114.xyz/douyu/999"
-                    ]
-                }
-            ]
-        },
+
  
         {
             "group": "虎牙",
